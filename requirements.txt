@@ -1,0 +1,10 @@
+pandas
+google-cloud-bigquery
+matplotlib
+seaborn
+python-dotenv
+beautifulsoup4
+requests
+regex
+zipfile2
+geopy
