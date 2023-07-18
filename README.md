@@ -17,10 +17,10 @@ You can download the entire repository with `git clone`:
 `git clone https://github.com/wojciechkarcz/SQL_Python_coding_challenge.git`
 
 
-All the libraries needed for the functions in notebooks to work properly are in the file requirements.txt
+All the libraries needed for the functions in notebooks to work properly are in the requirements.txt file.
 You can use `pip` to install them:
 
-`ppip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 The code in the notebooks is compatible with Python 3.8
 
